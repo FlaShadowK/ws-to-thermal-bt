@@ -1,6 +1,6 @@
 # Thermal Printer App
 
-This Electron-based application allows you to connect to a Bluetooth thermal printer, send text, and print QR codes. It also includes a WebSocket server for programmatic printing.
+This Node.js based application allows you to connect to a Bluetooth thermal printer, send text, and print QR codes. It also includes a WebSocket server for programmatic printing.
 
 ## Prerequisites
 
