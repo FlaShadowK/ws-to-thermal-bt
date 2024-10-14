@@ -13,7 +13,7 @@ This Electron-based application allows you to connect to a Bluetooth thermal pri
 1. Clone this repository or download the source code:
    ```
    git clone https://github.com/yourusername/thermal-printer-app.git
-   cd thermal-printer-app
+   cd ws-to-thermal-bt
    ```
 
 2. Install the dependencies:
