@@ -26,22 +26,8 @@ This Node.js based application allows you to connect to a Bluetooth thermal prin
 To start the app:
 
 ```
-npm start
+node index.js
 ```
-
-The app window should open, displaying the user interface.
-
-### Connecting to the Printer
-
-1. Click the "Connect to Printer" button.
-2. A Bluetooth device selection dialog will appear. Select your thermal printer from the list.
-3. If the connection is successful, you'll see a "Printer connected successfully" message, and the print form will appear.
-
-### Printing
-
-1. Enter the text you want to print in the text area.
-2. If you want to include a QR code, enter the URL in the "Enter URL for QR code" field and click "Generate QR Code". The QR code will be displayed on the screen.
-3. Click the "Print" button to send the job to the printer.
 
 ### WebSocket Printing
 
